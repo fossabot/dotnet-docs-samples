@@ -9,6 +9,7 @@ lists all the _Cloud_ APIs you can call from .NET.
 The samples in this repo cover only _some_ of the total APIs that you can call from .NET.
 
 [![Build Status](https://jenkins.on2flixcloud.tv/buildStatus/icon?job=dotnet-docs-samples)](https://jenkins.on2flixcloud.tv/job/dotnet-docs-samples/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdotnet-docs-samples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdotnet-docs-samples?ref=badge_shield)
 
 ## Build and Run
 
@@ -76,6 +77,9 @@ But no sample will work until you:
 ## Licensing
 
 * See [LICENSE](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fdotnet-docs-samples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fdotnet-docs-samples?ref=badge_large)
 
 ## Testing
 
